@@ -4,6 +4,8 @@
 - **다운로드:** [.NET 공식 다운로드 페이지](https://dotnet.microsoft.com/download)
 - **권장 버전:** .NET 10.0 SDK (LTS) — 2028년 11월까지 지원
 
+### Codespaces (Linux) 환경
+
 우리 프로젝트는 주로 Codespaces(리눅스) 환경에서 작업하므로, 리눅스 기준으로 .NET SDK 설치 방법을 정리합니다.
 
 먼저 패키지 목록을 최신 상태로 갱신합니다.
